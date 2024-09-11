@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AllThingsCoding
+- 👋 Hi, I’m Sammy Mushagasha
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on a big Java project
